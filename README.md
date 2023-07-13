@@ -1,1 +1,2 @@
 # Rock-vs-Mine-Prediction
+  Here, the model determines whether an object is a rock or a mine by utilizing a given dataset. To select the most suitable model, cross-validation was employed, considering options such as Logistic Regression, Decision Tree, Support Vector Machine, and Random Forest Classifier. After careful evaluation, the Random Forest Classifier was chosen, resulting in an accuracy of 90.4%.
